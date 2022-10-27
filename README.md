@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andykiroto
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...my sql,html,css,java
+- 🌱 I’m currently learning ...my sql,html,css,javascript,php,python
 
 
 <!---
